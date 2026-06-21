@@ -16,12 +16,12 @@ export const projects: Project[] = [
     title: 'VIGO POS System',
     shortDescription: 'Full-stack Developed a POS system using Next.js and Supabase featuring inventory management, stock opname, and transaction monitoring.',
     description:
-      'Final Thesis Project - A comprehensive Point of Sale (POS) system built with Next.js and Supabase to support retail operational workflows. The system provides inventory management, stock opname, and real-time transaction monitoring to improve accuracy and efficiency. It implements role-based access control (RBAC) for different user roles such as admin and cashier, ensuring secure and structured access to system features. The application is deployed as both a web platform and Android wrapper to support multi-device usage in daily operations.',
+      'Final Thesis Project - A comprehensive Point of Sale (POS) system built with Next.js and Supabase to support retail operational workflows. The system provides inventory management, stock opname, and real-time transaction monitoring to improve accuracy and efficiency. It implements role-based access control (RBAC) for different user roles such as admin and cashier, ensuring secure and structured access to system features. The application is deployed as both a web platform and Android wrapper to support multi-device usage in daily operations. Developed collaboratively by a team consisting of two Hackers (developers) and one Hustler (business strategist), where I contributed as a Full-Stack Developer, responsible for designing and implementing both frontend and backend features, database integration, authentication, and system deployment.',
     technologies: ['Next.js', 'React', 'PostgreSQL', 'Supabase', 'Tailwind CSS', 'Capacitor/TWA', 'WebView wrapper'],
-    images: ['/projects/ecommerce-1.png', '/projects/ecommerce-2.png', '/projects/ecommerce-3.png', '/projects/ecommerce-4.png'],
-    githubLink: 'https://github.com/yourusername/ecommerce-platform',
-    youtubeLink: 'https://youtube.com/watch?v=example1',
-    liveLink: 'https://ecommerce-demo.example.com',
+    images: ['vigologo.png', 'vigoll.jpeg', 'kkk1.png', 'kk2.png', 'kk3.png', 'kk5.png', 'kk6.png', 'kk7.png'],
+    githubLink: 'https://github.com/officialvigopos/VigoPOS',
+    liveLink: 'https://www.instagram.com/vigoofficial.id?igsh=OGhpaHY4a2x2ejZl',
+    youtubeLink: 'https://youtu.be/m80Rl-699aM',
   },
   {
     id: 2,
@@ -65,5 +65,6 @@ export const projects: Project[] = [
     technologies: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'PHP', 'MySQL'],
     images: ['pramban1.png'],
     githubLink: 'https://github.com/rizkimln/deprambanantour',
+    youtubeLink: 'https://youtu.be/XmeQYBfJBgM',
   },
 ];
