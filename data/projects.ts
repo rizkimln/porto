@@ -18,7 +18,7 @@ export const projects: Project[] = [
     description:
       'Final Thesis Project - A comprehensive Point of Sale (POS) system built with Next.js and Supabase to support retail operational workflows. The system provides inventory management, stock opname, and real-time transaction monitoring to improve accuracy and efficiency. It implements role-based access control (RBAC) for different user roles such as admin and cashier, ensuring secure and structured access to system features. The application is deployed as both a web platform and Android wrapper to support multi-device usage in daily operations. Developed collaboratively by a team consisting of two Hackers (developers) and one Hustler (business strategist), where I contributed as a Full-Stack Developer, responsible for designing and implementing both frontend and backend features, database integration, authentication, and system deployment.',
     technologies: ['Next.js', 'React', 'PostgreSQL', 'Supabase', 'Tailwind CSS', 'Capacitor/TWA', 'WebView wrapper'],
-    images: ['vigologo.png', 'vigoll.jpeg', 'kkk1.png', 'kk2.png', 'kk3.png', 'kk5.png', 'kk6.png', 'kk7.png'],
+    images: ['vigologo.png', 'kkk1.png', 'kk3.png', 'kk5.png', 'kk7.png'],
     githubLink: 'https://github.com/officialvigopos/VigoPOS',
     liveLink: 'https://www.instagram.com/vigoofficial.id?igsh=OGhpaHY4a2x2ejZl',
     youtubeLink: 'https://youtu.be/m80Rl-699aM',
